@@ -1,0 +1,1 @@
+oop'de contructorların kullanımı
